@@ -1,0 +1,5 @@
+evidence/*
+analysis/*
+__pycache__/
+*.pyc
+.DS_Store
